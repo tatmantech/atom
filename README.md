@@ -1,2 +1,2 @@
 # atom
-trying to connect atom to GitHub 
+atom github repo
